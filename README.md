@@ -23,7 +23,7 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="coding" width="320" src="https://github.com/user-attachments/assets/5d1d4d72-cbcf-4c01-b92b-b426cea01d9d">
 
 ```javascript
 const pradnya = {
